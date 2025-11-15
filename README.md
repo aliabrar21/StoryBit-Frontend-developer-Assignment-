@@ -9,7 +9,7 @@ This project is developed as part of the StoryBit Frontend Developer Assignment.
 
 ## Live Demo
 
-Vercel URL: 
+Vercel URL: https://story-bit-frontend-developer-assign.vercel.app/
 ---
 
 ## Tech Stack
