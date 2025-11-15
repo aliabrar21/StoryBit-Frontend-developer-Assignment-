@@ -9,7 +9,7 @@ This project is developed as part of the StoryBit Frontend Developer Assignment.
 
 ## Live Demo
 
-Vercel URL: https://storybit-dashboard.vercel.app/
+Vercel URL: 
 ---
 
 ## Tech Stack
@@ -74,7 +74,7 @@ storybit-dashboard/
 
 ### 1. Clone the Repository
 ```sh
-git clone https://github.com/SriBoo/storybit-dashboard.git
+git clone https://github.com/aliabrar21/StoryBit-Frontend-developer-Assignment
 cd storybit-dashboard
 ````
 
@@ -123,7 +123,7 @@ npm start
 
 ## Developer
 
-Sri Vaishnavi Nunna
+Abrar Ali
 Frontend Developer Assignment – StoryBit
 
 ```
