@@ -74,7 +74,7 @@ storybit-dashboard/
 
 ### 1. Clone the Repository
 ```sh
-git clone https://github.com/aliabrar21/StoryBit-Frontend-developer-Assignment
+git clone https://github.com/aliabrar21/StoryBit-Frontend-developer-Assignment-
 cd storybit-dashboard
 ````
 
